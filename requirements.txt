@@ -72,7 +72,7 @@ commonmark==0.9.1
 configobj==5.0.8
 constantly==15.1.0
 crackmapexec==5.4.0
-cryptography==38.0.4
+cryptography==42.0.8
 cryptography37==37.0.2
 cvss==2.4
 cycler==0.11.0
@@ -408,7 +408,7 @@ theHarvester==4.2.0
 tld==0.11.11
 tls-parser==1.2.2
 tomli==2.0.1
-tornado==6.2
+tornado==6.4.1
 tqdm==4.64.1
 traitlets==5.5.0
 translationstring==1.4
