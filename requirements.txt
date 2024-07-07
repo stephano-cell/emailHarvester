@@ -56,7 +56,7 @@ bs4==0.0.1
 catfish==4.16.4
 cbor==1.0.0
 censys==2.1.9
-certifi==2022.9.24
+certifi==2024.7.4
 cffi==1.15.1
 chardet==5.1.0
 charset-normalizer==3.0.1
