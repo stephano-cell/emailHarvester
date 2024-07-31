@@ -412,7 +412,7 @@ tornado==6.2
 tqdm==4.64.1
 traitlets==5.5.0
 translationstring==1.4
-Twisted==22.4.0
+Twisted==24.7.0rc1
 txaio==21.2.1
 typing_extensions==4.4.0
 tzlocal==4.2
