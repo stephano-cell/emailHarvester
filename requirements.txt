@@ -72,7 +72,7 @@ commonmark==0.9.1
 configobj==5.0.8
 constantly==15.1.0
 crackmapexec==5.4.0
-cryptography==38.0.4
+cryptography==43.0.1
 cryptography37==37.0.2
 cvss==2.4
 cycler==0.11.0
@@ -86,7 +86,7 @@ dicttoxml==1.7.15
 diskcache==5.4.0
 distlib==0.3.6
 distro==1.8.0
-Django==3.2.18
+Django==4.2.16
 dnslib==0.9.23
 dnspython==2.3.0
 docopt==0.6.2
